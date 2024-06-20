@@ -1,1 +1,1 @@
-![group-photo](profile/wanglab-group-photo.jpeg)
+![group-photo](wanglab-group-photo.jpeg)
